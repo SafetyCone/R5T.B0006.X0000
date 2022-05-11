@@ -1,0 +1,2 @@
+# R5T.B0006.X0000
+Roslyn syntax element related extensions to ISyntaxOperator.
